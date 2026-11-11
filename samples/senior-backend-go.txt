@@ -1,0 +1,37 @@
+Senior Backend Engineer (Go) - Payments Platform
+
+About Ledgerline
+Ledgerline moves money for 4,000 online businesses. We're a Series B fintech, remote-first across Europe and India, and we process over $2B in payments a year.
+
+About the role
+We're looking for a Senior Backend Engineer to join the Payments Platform team. You'll own the services that authorise, capture and settle every transaction, and you'll help us scale from 300 to 3,000 transactions per second.
+
+What you'll do
+- Design, build and maintain high-throughput payment services in Go
+- Own features end to end, from design doc to production rollout and on-call
+- Improve the reliability of our ledger: idempotency, retries, reconciliation
+- Work closely with product and risk teams to ship new payment methods
+- Optimize PostgreSQL queries and data models for low-latency reads
+- Mentor engineers and raise the bar through thoughtful code reviews
+- Write clear RFCs and drive technical decisions across teams
+
+What we're looking for
+- 5+ years of backend software engineering experience
+- Strong proficiency in Go (Golang) in production
+- Experience building distributed systems and microservices with gRPC or REST APIs
+- Solid knowledge of PostgreSQL and data modeling
+- Experience with Kafka or another message queue
+- Hands-on experience with Docker and Kubernetes on AWS
+- Comfortable with observability tools such as Prometheus, Grafana and OpenTelemetry
+- Excellent written and verbal communication
+
+Nice to have
+- Experience in payments, banking or another regulated environment (PCI DSS, SOC 2)
+- Familiarity with Terraform
+- Exposure to Temporal or other workflow engines
+
+What we offer
+- Competitive salary and equity
+- Health insurance for you and your family
+- Learning budget of EUR 1,500 a year
+- Flexible remote work

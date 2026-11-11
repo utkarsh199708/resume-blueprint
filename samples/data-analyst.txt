@@ -1,0 +1,25 @@
+Data Analyst, Growth
+
+Brightcart is a grocery delivery app used by 1.2 million households. Our Growth team decides where we spend our marketing budget and which features make customers come back. We are hiring a Data Analyst to be the team's source of truth.
+
+In this role you will:
+* Build and maintain dashboards in Looker that track acquisition, activation and retention
+* Analyze A/B tests with product managers and recommend what to ship
+* Write SQL against our Snowflake warehouse to answer ad hoc questions from marketing
+* Partner with data engineering on data quality and new tracking events
+* Present findings to the leadership team every month
+* Identify the drivers of churn and size the opportunity in revenue terms
+
+You have:
+* 2+ years of experience in an analytics role
+* Advanced SQL; you can write window functions without looking them up
+* Experience with Python (pandas) or R for analysis
+* A solid grasp of statistics and experimentation
+* The ability to turn messy data into a clear story for non-technical stakeholders
+
+It's a plus if you have:
+* Experience with dbt
+* Worked in e-commerce or a consumer app
+* Familiarity with Amplitude or Mixpanel
+
+Hybrid: 3 days a week in our London office.
